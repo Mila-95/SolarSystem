@@ -5,4 +5,5 @@ public class SolarSystem {
     String Moon;
     String Planet;
     String Stars;
+
 }
