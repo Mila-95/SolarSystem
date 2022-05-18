@@ -14,5 +14,7 @@ public class Main {
         xfact.colour="green";
         xfact.radius="10000000";
         xfact.heat="34567890-0987654";
+
+        System.out.println("hhhhhh");
     }
 }
