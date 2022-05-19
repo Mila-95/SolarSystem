@@ -14,5 +14,11 @@ public class Main {
         xfact.colour="green";
         xfact.radius="10000000";
         xfact.heat="34567890-0987654";
+
+        // user2
+        User2 a=new User2();
+        a.color="fff";
+        a.size="3445";
+        a.color="fdrsvg";
     }
 }
