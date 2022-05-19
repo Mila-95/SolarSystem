@@ -14,5 +14,11 @@ public class Main {
         xfact.colour="green";
         xfact.radius="10000000";
         xfact.heat="34567890-0987654";
+
+        //adding feature for planet 1
+        Planet1Feature GulK=new Planet1Feature();
+        GulK.color="blue";
+        GulK.name="preacheX";
+        GulK.size="38990653323";
     }
 }
