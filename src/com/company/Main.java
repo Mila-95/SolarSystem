@@ -15,10 +15,18 @@ public class Main {
         xfact.radius="10000000";
         xfact.heat="34567890-0987654";
 
+
         // user2
         User2 a=new User2();
         a.color="fff";
         a.size="3445";
         a.color="fdrsvg";
+
+        //adding feature for planet 1
+        Planet1Feature GulK=new Planet1Feature();
+        GulK.color="blue";
+        GulK.name="preacheX";
+        GulK.size="38990653323";
+
     }
 }
